@@ -6,6 +6,6 @@
  - [ ] CSGO
  - [ ] 编程 
  - [ ] 硬件开发
-
+![tip](https://badgen.net/badge/python/3.11.6/orange?i)  ![tip](https://badgen.net/badge/windows/10/green?i) ![tip](https://badgen.net/badge/ubuntu-sever/22.04/blue?i) ![tip](https://badgen.net/badge/orangepi/zero-3/yellow?i) ![tip](https://badgen.net/badge/vscode/9/pink?i)
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Sydrr0&show_icons=true&theme=tokyonight)
  
