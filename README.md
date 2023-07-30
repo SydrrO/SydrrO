@@ -1,16 +1,11 @@
-### Hi there 👋
+### 欢迎来到我的仓库👋
+ - 我只是一个**Python**技术开发爱好者
+ - 需要学习的还有很多很多
+ - 在****Github****上分享一点自己写出来的小插件
+ - 欢迎大佬指正！！！
+ - [ ] CSGO
+ - [ ] 编程 
+ - [ ] 硬件开发
 
-<!--
-**Sydrr0/Sydrr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Sydrr0&show_icons=true&theme=tokyonight)
+ 
