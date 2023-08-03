@@ -7,8 +7,20 @@
 ### 欢迎来到我的仓库👋
 </div>
 
+<p align="center">
+<a href="https://fxxkpython.com">
+  <img src="https://count.getloli.com/get/@:ydrr0" alt=":name" />
+</a>
+</p>
 
- - 😙 我只是一个**Python**技术开发爱好者
+<p align="center">
+<a href="https://fxxkpython.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sydrr0"/>
+</a>
+</p>
+
+
+ - 😙 我只是一个**Python**技术开发爱好者  
  - 😧 需要学习的还有很多很多
  - 🐤在****Github****上分享一点自己写出来的小插件
  - 🥇欢迎大佬指正！！！
@@ -28,4 +40,5 @@
     </th>
   </tr>
 </table>
- 
+
+
