@@ -4,7 +4,7 @@
     <img src="https://pic.imgdb.cn/item/64d89d451ddac507ccd6c5b6.jpg width="500" height="250">
 </a>
 
-<h1 align="center">Hi 👋, I'm Sydrr0</h1>
+<h1 align="center">Hi 👋, I'm SydrrO</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
 📫 How to reach me   **2562312527@qq.com**
