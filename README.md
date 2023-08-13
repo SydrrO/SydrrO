@@ -50,6 +50,8 @@
 </div>
 
 
+<div align="center">
+
 <h1 align="center">👀 My coding time 👀</h1>
  
  
@@ -82,6 +84,6 @@ Python                   6 repos             ███████████�
  Last Updated on 13/08/2023 11:41:21 UTC
 <!--END_SECTION:waka-->
 
-
+</div>
 
 
