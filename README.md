@@ -4,8 +4,6 @@
     <img src="https://pic.imgdb.cn/item/64cb07851ddac507ccc37061.jpg"width="200" height="200" alt="老婆">
   </a>
 
-![tip](https://badgen.net/badge/python/3.11.6/orange?i)  ![tip](https://badgen.net/badge/windows/10/green?i) ![tip](https://badgen.net/badge/ubuntu-sever/22.04/blue?i) ![tip](https://badgen.net/badge/orangepi/zero-3/yellow?i) ![tip](https://badgen.net/badge/vscode/1.8/pink?i)
-
 ### 欢迎来到我的仓库👋
 </div>
 
@@ -21,15 +19,18 @@
 </a>
 </p>
 
- 
- - 😙 我只是一个**Python**技术开发爱好者  
- - 😧 需要学习的还有很多很多
- - 🐤在****Github****上分享一点自己写出来的小插件
- - 🥇欢迎大佬指正！！！
+🧰  **My coding tools**
 
- - [x] CSGO
- - [x] 编程 
- - [x] 硬件开发
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) 
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) 
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+
+
+🌟 **My languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 
 
 
