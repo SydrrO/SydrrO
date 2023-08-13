@@ -1,9 +1,9 @@
 <div align="center">
 
-  <a href="https://v2.nonebot.dev/">
-    <img src="https://pic.imgdb.cn/item/64ca75781ddac507ccf21163.webp">
+ <a href="https://v2.nonebot.dev/">
+    <img src="https://pic.imgdb.cn/item/64ca75781ddac507ccf21163.webp" width="500" height="250">
+</a>
 
-  </a>
 <h1 align="center">Hi 👋, I'm Sydrr0</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
