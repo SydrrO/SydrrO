@@ -49,7 +49,7 @@
 ![cup](https://github-profile-trophy.vercel.app/?username=sydrr0&theme=buddhism&row=2&column=3)
 </div>
 
-
+<div align="center">
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2031%20mins-blue)
 
@@ -124,6 +124,6 @@ Python                   6 repos             ███████████�
  Last Updated on 13/08/2023 11:17:45 UTC
 <!--END_SECTION:waka-->
 
-
+</div>
 
 
