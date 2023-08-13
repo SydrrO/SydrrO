@@ -13,7 +13,7 @@
 <p align="center">
 </p>
 
-### ⭐ My acts ⭐
+### ⭐ My Acts ⭐
 
 
 </div>
@@ -33,14 +33,14 @@
 
 <div align="center">
 
-### 🧰 **My coding tools** 🧰
+### 🧰 **My Coding Tools** 🧰
 
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 
-### 🌟 **My languages** 🌟
+### 🌟 **My Languages** 🌟
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
