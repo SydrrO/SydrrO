@@ -5,7 +5,7 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Sydrr0</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate backend developer from China</h3>
 
 📫 How to reach me   **2562312527@qq.com**
 
