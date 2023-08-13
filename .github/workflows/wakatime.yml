@@ -24,5 +24,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
-          SYMBOL_VERSION: 3
 
