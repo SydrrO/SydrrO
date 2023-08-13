@@ -1,7 +1,7 @@
 <div align="center">
 
  <a href="https://v2.nonebot.dev/">
-    <img src="https://pic.imgdb.cn/item/64ca75781ddac507ccf21163.webp" width="500" height="250">
+    <img src="https://pic.imgdb.cn/item/64d89d451ddac507ccd6c5b6.jpg width="500" height="250">
 </a>
 
 <h1 align="center">Hi 👋, I'm Sydrr0</h1>
