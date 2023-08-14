@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<h1 align="center">👀 My coding time 👀</h1>
+<h1 align="center">👀 My Coding Time 👀</h1>
  
  
  <!--START_SECTION:waka-->
