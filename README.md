@@ -15,20 +15,22 @@
 
 ### ⭐ My Acts ⭐
 
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sydrr0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
+</p>
 
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sydrr0&show_icons=true&hide_border=true"  alt="Akirami's GitHub stats"/>
+</p>
 
 <p align="center">
 <a href="https://fxxkpython.com">
   <img src="https://count.getloli.com/get/@:ydrr0" alt=":name" />
 </a>
 </p>
-
-<p align="center">
-<a href="https://www.adamalston.com/"><img height="128px" src="https://github-readme-stats.vercel.app/api?username=sydrr0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-</a>
-</p>
-
 
 
 <div align="center">
