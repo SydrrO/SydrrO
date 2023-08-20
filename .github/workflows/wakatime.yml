@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          COMMIT_USERNAME: "Sydrr0"
+          COMMIT_USERNAME: "Sydrro"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_COMMIT: "False"
