@@ -16,19 +16,19 @@
 ### ⭐ My Acts ⭐
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sydrr0&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Sydrro&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
 </p>
 
 </div>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sydrr0&show_icons=true&hide_border=true"  alt="Akirami's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sydrro&show_icons=true&hide_border=true"  alt="Akirami's GitHub stats"/>
 </p>
 
 <p align="center">
 <a href="https://fxxkpython.com">
-  <img src="https://count.getloli.com/get/@:ydrr0" alt=":name" />
+  <img src="https://count.getloli.com/get/@:ydrro" alt=":name" />
 </a>
 </p>
 
@@ -48,7 +48,7 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=fff)
 
 
-![cup](https://github-profile-trophy.vercel.app/?username=sydrr0&theme=buddhism&row=2&column=3)
+![cup](https://github-profile-trophy.vercel.app/?username=sydrro&theme=buddhism&row=2&column=3)
 </div>
 
 
