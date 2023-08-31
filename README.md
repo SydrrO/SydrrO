@@ -64,14 +64,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   13 mins             █████████████████████████   98.20 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +82,7 @@ Python                   7 repos             ███████████�
 
 
 
- Last Updated on 30/08/2023 00:53:22 UTC
+ Last Updated on 31/08/2023 00:53:37 UTC
 <!--END_SECTION:waka-->
 
 </div>
