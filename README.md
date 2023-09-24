@@ -64,13 +64,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +82,7 @@ Python                   8 repos             ███████████�
 
 
 
- Last Updated on 23/09/2023 00:52:36 UTC
+ Last Updated on 24/09/2023 00:57:13 UTC
 <!--END_SECTION:waka-->
 
 </div>
